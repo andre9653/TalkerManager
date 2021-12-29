@@ -1,0 +1,11 @@
+const HTTP_ERRO_STATUS = 400;
+const HTTP_REQ_OK = 201;
+const HTTP_OK_STATUS = 200;
+const HTTP_NOT_FOUND_STATUS = 404;
+
+module.exports = {
+  HTTP_ERRO_STATUS,
+  HTTP_OK_STATUS,
+  HTTP_REQ_OK,
+  HTTP_NOT_FOUND_STATUS,
+};
